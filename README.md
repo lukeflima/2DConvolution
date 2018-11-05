@@ -1,0 +1,2 @@
+# 2D Convolution
+Implementar em Python a operação de convolução D w x D w x C, com filtro convolucional especificado pelo usuário em arquivo texto a ser lido durante a execução, stride (inteiro positivo) e zero padding (boolean) especificados pelo usuário em tempo de execução. Apresentar resultados com imagens monocromáticas e RGB, e com volumes D f x D f x N, produzidos a partir da aplicação prévia de N filtros convolucionais. Os campos de ativação devem ser exibidos como imagens monocromáticas com nível de cinza no intervalo [0, 255]
